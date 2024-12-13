@@ -1,0 +1,3 @@
+Total feedbacks: 3
+Count of positive feedbacks: 2
+Count of negative feedbacks: 1

@@ -1,0 +1,3 @@
+cat\t-\tкішка
+dog\t-\tсобака
+house\t-\tдім

@@ -1,0 +1,3 @@
+Positive: This product is amazing and works perfectly.
+Negative: The service was slow and unsatisfactory.
+Positive: Great quality and fast delivery.
